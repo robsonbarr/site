@@ -1,0 +1,64 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing:border-box;
+
+}
+
+.center{
+height: 100%;
+width: 100%;
+
+}
+form{
+	padding: 10px;
+	margin: 0 auto;
+	
+
+	background: #ccc;
+}
+
+form#form_cadastro{
+	background: red;
+	width: 70%;
+}
+form input{
+	padding: 10px;
+}
+
+form li{
+	list-style: none;
+	margin-top: 10px;
+	text-align: center;
+
+
+}
+ form input[type=text]{
+ 	width: 90%;
+ 	height: 40px;
+ }
+  form input[type=password]{
+ 	width: 90%;
+ 	height: 40px;
+ }  form input[type=submit]{
+ 	width: 50%;
+ 	height: 40px;
+
+
+ }
+
+form ul{
+margin-top: 20px;
+
+}
+form h2{
+color: white;
+text-align: center;
+font-size: 30px;
+
+
+}
+
+
+
+
